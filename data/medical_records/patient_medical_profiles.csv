@@ -1,0 +1,21 @@
+Patient ID,Riwayat Medis 
+1,Post-Chemotherapy Recovery: Pasien berada dalam siklus pemulihan pasca-sitostatika. Memiliki ambang batas suhu tubuh basal yang sedikit lebih tinggi (37.1–37.5°C) akibat respon inflamasi sistemik ringan non-infeksius.
+2,Elite Athlete (Marathoner): Memiliki kondisi bradikardia fungsional yang menetap. Detak jantung istirahat (resting heart rate) di kisaran 55–65 bpm adalah tanda efisiensi miokardium yang sangat baik.
+3,Permanent Pacemaker Implantation: Pasien menggunakan alat pacu jantung dengan mode VVI/DDD. Alat diatur pada lower rate limit 60–70 bpm untuk mencegah kejadian sinkop akibat blok jantung.
+4,Post-Renal Transplantation: Pasien dalam terapi imunosupresan jangka panjang (Cyclosporine/Tacrolimus). Peningkatan suhu tubuh sekecil apa pun (>37.0°C) harus dianggap sebagai alarm dini penolakan organ atau infeksi oportunistik.
+5,Post-Procedural Sedation: Pasien baru saja menjalani prosedur endoskopi dengan sedasi ringan (Midazolam/Propofol). Laju pernapasan (RR) cenderung melambat (12-14 tpm) sebagai efek sisa depresi pernapasan ringan.
+6,Chronic Obstructive Pulmonary Disease (COPD) Grade IV: Pasien mengalami hipoksia kronis. Target saturasi oksigen (SpO2) yang aman bagi pasien ini adalah 88–92% untuk menghindari hilangnya dorongan hipoksia pada pernapasan.
+7,Morbid Obesity (BMI >45): Pasien mengalami Obesity Hypoventilation Syndrome. Laju pernapasan (RR) di atas 20 tpm saat istirahat adalah bentuk kompensasi mekanis akibat beban lemak pada dinding dada.
+8,Acute Ischemic Stroke Recovery: Pasien memerlukan pemantauan tekanan darah sistolik yang sedikit tinggi (130–140 mmHg) untuk mempertahankan tekanan perfusi serebral (CPP) agar jaringan otak tidak mati.
+9,"Decompensated Liver Cirrhosis: Pasien mengalami vasodilatasi splanknik dan sistemik akibat sirosis hati, menyebabkan tekanan darah sistolik sering berada di ambang batas rendah secara menetap."
+10,Chronic Heart Failure (CHF) NYHA Class III: Fraksi ejeksi jantung (EF) rendah mengakibatkan tekanan darah sistolik sering berada di kisaran 80–90 mmHg (perfusi rendah kronis) tanpa gejala akut.
+11,Severe Iron Deficiency Anemia: Jantung melakukan kompensasi hemodinamik dengan meningkatkan denyut nadi (takikardia) secara ekstrem untuk memastikan pasokan oksigen ke jaringan tetap terpenuhi.
+12,"Acute Bronchial Asthma: Pasien sedang dalam serangan asma dan menggunakan inhaler SABA (Short-Acting Beta-Agonist) dosis tinggi, yang memicu efek samping takikardia berat (stimulasi reseptor Beta-1)."
+13,Palliative Care for Lung Cancer: Pasien dalam stadium terminal. Munculnya demam tinggi (39.35°C) secara mendadak merupakan indikasi kegawatan berupa sepsis atau infeksi paru berat (pneumonia).
+14,End-Stage Renal Disease (ESRD): Pasien gagal ginjal dengan gangguan termoregulasi. Penurunan suhu tubuh drastis (hipotermia) mengindikasikan gangguan metabolik berat atau syok uremik.
+15,"Geriatric Patient (Isolated Systolic Hypertension): Akibat kekakuan arteri karena usia lanjut, pasien memiliki tekanan sistolik tinggi namun diastolik rendah (widened pulse pressure) yang memerlukan observasi."
+16,"Panic Disorder with Hyperventilation: Pasien mengalami serangan cemas akut yang memicu pernapasan cepat dan dangkal (RR >25 tpm), berisiko menyebabkan alkalosis respiratorik."
+17,Chronic Kidney Disease (CKD) Stadium 4: Pasien mengalami hipertensi renal akibat aktivasi sistem Renin-Angiotensin-Aldosteron; tekanan darah sistolik >150 mmHg menunjukkan manajemen cairan yang buruk.
+18,Type 2 Diabetes with Diabetic Foot Ulcer: Suhu tubuh yang meningkat (febrile) pada pasien diabetes harus dicurigai kuat sebagai tanda infeksi jaringan dalam (selulitis) atau osteomielitis pada ekstremitas bawah.
+19,Pregnancy Trimester III (Late Stage): Munculnya tekanan darah di atas 130 mmHg pada akhir kehamilan merupakan tanda waspada risiko preeklampsia yang dapat membahayakan ibu dan janin.
+20,Hyperthyroidism (Graves' Disease): Pasien mengalami badai tiroid ringan (Thyroid Storm); metabolisme yang sangat cepat memicu detak jantung (HR) melonjak secara tidak terkendali saat istirahat.
