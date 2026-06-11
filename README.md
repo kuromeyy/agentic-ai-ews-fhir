@@ -19,7 +19,7 @@ This project implements an autonomous, context-aware **Early Warning System (EWS
 ---
 
 ## 📂 Repository Structure
-
+```text
 agentic-ai-ews-fhir/
 │
 ├── data/
